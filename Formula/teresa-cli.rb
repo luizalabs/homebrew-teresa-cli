@@ -1,6 +1,6 @@
 class TeresaCli < Formula
   desc "Teresa client"
-  homepage "https://github.com/luizalabs/teresa-cli"
+  homepage "https://github.com/luizalabs/teresa"
   url "https://github.com/luizalabs/teresa/releases/download/v0.5.0/teresa-darwin-amd64"
   sha256 "d48b7ce9768ad66c2b074e0eddd2e5a58f0042d99deba78f7b103a6a1a4f0e30"
   head "https://github.com/luizalabs/teresa.git"
