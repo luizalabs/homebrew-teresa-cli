@@ -15,8 +15,7 @@ $ brew install teresa-cli
 To be able to login, first you need to configure to use a cluster, eg:
 
 ```sh
-$ teresa config set-cluster aws_staging --server https://staging.mydomain.com
-$ teresa config use-cluster aws_staging
+$ teresa config set-cluster aws_staging --server staging.mydomain.com --current
 ```
 
 
