@@ -4,7 +4,7 @@ class Teresa < Formula
   url "https://github.com/luizalabs/teresa/releases/download/v0.21.0/teresa-darwin-amd64"
   sha256 "588d201742e5ff9daa76290a39e7f4fb270543f246b513c1c5ba97eb2808e04e"
   head "https://github.com/luizalabs/teresa.git"
-  version 'v0.21.0'
+  version 'v0.22.0'
 
   bottle :unneeded
 
