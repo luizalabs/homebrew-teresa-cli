@@ -6,7 +6,7 @@ Run the following in your command-line:
 
 ```sh
 $ brew tap luizalabs/homebrew-teresa-cli
-$ brew install teresa-cli
+$ brew install teresa
 ```
 
 
