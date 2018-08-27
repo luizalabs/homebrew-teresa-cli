@@ -1,10 +1,10 @@
 class Teresa < Formula
   desc "Teresa client"
   homepage "https://github.com/luizalabs/teresa"
-  url "https://github.com/luizalabs/teresa/releases/download/v0.25.0/teresa-darwin-amd64"
-  sha256 "67d75cda52517940821aa6902beea44271f4c77fb5a8aa69ddda328b79c66870"
+  url "https://github.com/luizalabs/teresa/releases/download/v0.26.0/teresa-darwin-amd64"
+  sha256 "e5ca5e1ce2afa2a7adc73825a8c9a8a73ad3ffe37e2fd98781aad3a7455e7de8"
   head "https://github.com/luizalabs/teresa.git"
-  version "v0.25.0"
+  version "v0.26.0"
 
   bottle :unneeded
 
